@@ -7,7 +7,7 @@ const sendMail = async (user) => {
     to: user.email,
     subject: `Welcome to Myntra ${user.fullName}`,
     text: `Hi ${user.fullName}, Please confirm your email address by clicking on following link
-    link - "http://127.0.0.1:5501/"`,
+    link - ${process.env.Deployed_link}`,
   });
 };
 
