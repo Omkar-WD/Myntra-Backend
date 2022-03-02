@@ -1,0 +1,433 @@
+[{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9212"
+  },
+  "title": "Roadster",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1072681/2020/1/20/9de2d7dc-e239-4327-b7d0-096c80ac3a121579503443912-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-1.jpg",
+  "desc": "Graphic Cotton T-shirt",
+  "price": 224,
+  "maxprice": 499,
+  "rating": "3.6⭐",
+  "vote": "34.6k",
+  "discount": 55
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9213"
+  },
+  "title": "Roadster",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1295511/2018/5/2/11525248119235-Roadster-Men-Navy--Blue-Melange-Colour-Blocked-T-Shirt-751525248119047-1.jpg",
+  "desc": "Colourblocked Contrast Pocket",
+  "price": 244,
+  "maxprice": 699,
+  "rating": "3.4⭐",
+  "vote": "4.2k",
+  "discount": 65
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9214"
+  },
+  "title": "Roadster",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10938426/2020/3/3/e74099d5-1711-4141-8f5b-74d650e3146c1583220839421-Roadster-Men-Tshirts-8151583220838394-1.jpg",
+  "desc": "Printed Round Neck Pure Cotton",
+  "price": 699,
+  "maxprice": 999,
+  "rating": "3.1⭐",
+  "vote": "46.3k",
+  "discount": 30
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9215"
+  },
+  "title": "Roadster",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/414356/2020/1/20/80b3772a-b6cb-494f-939e-43d664eb19461579508533115-Roadster-Men-Maroon-Printed-T-shirt-with-Patch-Pocket-262157-1.jpg",
+  "desc": "Printed T-shirt with Pocket",
+  "price": 699,
+  "maxprice": 799,
+  "rating": "3.4⭐",
+  "vote": "19.9k",
+  "discount": 13
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9216"
+  },
+  "title": "Roadster",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11532962/2020/8/13/488d7d4a-0d25-4c33-8813-e1ba4e4a3a491597296194184-Roadster-Men-Navy-Blue-Striped-Henley-Neck-T-shirt-264159729-1.jpg",
+  "desc": "Striped Henley Neck T-shirt",
+  "price": 494,
+  "maxprice": 1000,
+  "rating": "4.1⭐",
+  "vote": "44.0k",
+  "discount": -353
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9217"
+  },
+  "title": "Puma",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13971574/2021/4/6/834f746e-b578-447b-b0fd-6cb2766640d81617705069948-Puma-Men-Tshirts-2901617705069081-1.jpg",
+  "desc": "RCB Take Down T-shirt",
+  "price": 649,
+  "maxprice": 800,
+  "rating": "3.3⭐",
+  "vote": "3.3k",
+  "discount": -403
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9218"
+  },
+  "title": "Puma",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13971578/2021/4/6/248ce33e-48e7-4151-a1a0-0df964c8222c1617705074553-Puma-Men-Tshirts-8221617705073367-1.jpg",
+  "desc": "RCB Replica Jersey T-shirt",
+  "price": 683,
+  "maxprice": 1790,
+  "rating": "4.1⭐",
+  "vote": "44.6k",
+  "discount": -282
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9219"
+  },
+  "title": "Puma",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16057830/2021/11/20/fdf57fbd-29f6-4432-b8a9-46af4d31730a1637387006450-Puma-Men-Tshirts-8981637387005959-1.jpg",
+  "desc": "Men Solid Logo T-shirt",
+  "price": 519,
+  "maxprice": 1290,
+  "rating": "3.4⭐",
+  "vote": "24.8k",
+  "discount": -302
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921a"
+  },
+  "title": "Puma",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15684160/2021/9/29/9becbd21-abc1-4057-aedb-2e540f7bbdbb1632916944049Puma1.jpg",
+  "desc": "Men Printed Polo Collar T-shirt",
+  "price": 899,
+  "maxprice": 1790,
+  "rating": "4.8⭐",
+  "vote": "31.5k",
+  "discount": -402
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921b"
+  },
+  "title": "Puma",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13502370/2021/3/1/a9547dc1-9e78-4f59-ac59-4213b417e1d01614600608135-Puma-Men-Tshirts-8521614600606899-1.jpg",
+  "desc": "Printed Round Neck Pure Cotton",
+  "price": 674,
+  "maxprice": 1490,
+  "rating": "3.1⭐",
+  "vote": "43.1k",
+  "discount": -352
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921c"
+  },
+  "title": "WROGN",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11363908/2020/3/2/3047363c-f29a-416e-8f8b-f070c08cf39f1583149447602-WROGN-Men-Tshirts-271583149446309-1.jpg",
+  "desc": "Solid Polo Collar T-shirt",
+  "price": 839,
+  "maxprice": 1390,
+  "rating": "4.6⭐",
+  "vote": "44.3k",
+  "discount": -504
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921d"
+  },
+  "title": "WROGN",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700830/2019/4/8/3f06fe25-1ce2-4e1e-88e9-7a9d26b4f0bf1554699735416-WROGN-Men-Rust-Red-High-Density-Print-Round-Neck-T-shirt-961-1.jpg",
+  "desc": "Graphic Cotton T-shirt",
+  "price": 499,
+  "maxprice": 999,
+  "rating": "4.8⭐",
+  "vote": "27.3k",
+  "discount": 50
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921e"
+  },
+  "title": "WROGN",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11363700/2020/3/2/ec73c88e-e651-4983-aaf1-1f21f7d877551583149435427-WROGN-Men-Tshirts-1401583149433605-1.jpg",
+  "desc": "Solid Polo Collar T-shirt",
+  "price": 1299,
+  "maxprice": 1390,
+  "rating": "3.5⭐",
+  "vote": "41.1k",
+  "discount": -835
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d921f"
+  },
+  "title": "WROGN",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9768159/2019/5/31/fd6586bd-676e-42c2-94ed-f9920f160c4b1559306224047-WROGN-Men-Tshirts-2211559306222588-1.jpg",
+  "desc": "Slim Fit Colourblocked Cotton",
+  "price": 599,
+  "maxprice": 1190,
+  "rating": "3.5⭐",
+  "vote": "31.3k",
+  "discount": -403
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9220"
+  },
+  "title": "WROGN",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1894413/2017/6/20/11497943671766-WROGN-Men-Grey-Melange-Self-Design-Round-Neck-T-shirt-881497943671356-1.jpg",
+  "desc": "Self Design Welt Pocket T-shirt",
+  "price": 1299,
+  "maxprice": 1390,
+  "rating": "4.0⭐",
+  "vote": "4.0k",
+  "discount": -835
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9221"
+  },
+  "title": "HRX by Hrithik Roshan",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
+  "desc": "Printed Pure Cotton T-shirt",
+  "price": 314,
+  "maxprice": 699,
+  "rating": "3.1⭐",
+  "vote": "1.4k",
+  "discount": 55
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9222"
+  },
+  "title": "HRX by Hrithik Roshan",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+  "desc": "Printed Cotton Pure Cotton",
+  "price": 314,
+  "maxprice": 699,
+  "rating": "3.9⭐",
+  "vote": "25.2k",
+  "discount": 55
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9223"
+  },
+  "title": "HRX by Hrithik Roshan",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10106341/2020/12/4/ebd42abb-c45f-4290-b8e7-073f18f3b8541607088518050-HRX-by-Hrithik-Roshan-Ultralyte-Men-Black-Solid-Running-T-sh-1.jpg",
+  "desc": "Ultralyte Men Running T-shirt",
+  "price": 699,
+  "maxprice": 899,
+  "rating": "3.5⭐",
+  "vote": "11.4k",
+  "discount": 22
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9224"
+  },
+  "title": "HRX by Hrithik Roshan",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2314372/2018/6/19/29e8ddfd-6f5f-43fd-8b71-dfa8ac6cef681529385860869-HRX-by-Hrithik-Roshan-Men-Charcoal-Grey-Slim-Advanced-Rapid--1.jpg",
+  "desc": "Slim Rapid Dry Raglan T-shirt",
+  "price": 699,
+  "maxprice": 899,
+  "rating": "3.2⭐",
+  "vote": "30.1k",
+  "discount": 22
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9225"
+  },
+  "title": "HRX by Hrithik Roshan",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2314424/2018/5/24/16fad75c-35ed-4780-8625-193cc8dae4fc1527173672482-HRX-by-Hrithik-Roshan-Men-Black-Slim-Advanced-Rapid-Dry-Raglan-T-shirt-3541527173669891-1.jpg",
+  "desc": "Slim Rapid Dry Raglan T-shirt",
+  "price": 494,
+  "maxprice": 899,
+  "rating": "3.8⭐",
+  "vote": "12.7k",
+  "discount": 45
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9226"
+  },
+  "title": "Huetrap",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+  "desc": "Typography Print T-shirt",
+  "price": 362,
+  "maxprice": 1090,
+  "rating": "3.7⭐",
+  "vote": "18.4k",
+  "discount": -232
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9227"
+  },
+  "title": "Huetrap",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1967371/2017/6/30/11498806696407-Huetrap-Men-White-Printed-Round-Neck-T-shirt-5261498806696272-1.jpg",
+  "desc": "Graphic Cotton T-shirt",
+  "price": 461,
+  "maxprice": 1390,
+  "rating": "4.1⭐",
+  "vote": "15.4k",
+  "discount": -232
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9228"
+  },
+  "title": "Huetrap",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11548544/2020/3/9/5eeaead2-de8e-45fb-99d9-c5bccf21e7ea1583748694212-Huetrap-Men-Tshirts-6441583748692050-1.jpg",
+  "desc": "Print Superman T-shirt",
+  "price": 389,
+  "maxprice": 1290,
+  "rating": "3.9⭐",
+  "vote": "17.6k",
+  "discount": -202
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9229"
+  },
+  "title": "Huetrap",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2352649/2017/12/19/11513675056208-na-1061513675056044-1.j pg",
+  "desc": "Typography Cotton T-shirt",
+  "price": 494,
+  "maxprice": 1490,
+  "rating": "4.5⭐",
+  "vote": "9.6k",
+  "discount": -232
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922a"
+  },
+  "title": "Huetrap",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7783107/2018/11/15/60917787-d627-4460-81a0-a05b98af3e141542273865073-na-7491542273864890-1.jpg",
+  "desc": "Graphic Cotton T-shirt",
+  "price": 494,
+  "maxprice": 1490,
+  "rating": "3.2⭐",
+  "vote": "15.3k",
+  "discount": -232
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922b"
+  },
+  "title": "QUANCIOUS",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14857472/2021/7/17/dc2313bc-eecc-43dd-98f7-4412a0afb0f41626528168884QUANCIOUSMenGreyMelangeTypographyPrintedAppliqueT-shirt1.jpg",
+  "desc": "Men Printed T-shirt",
+  "price": 684,
+  "maxprice": 1190,
+  "rating": "3.0⭐",
+  "vote": "15.6k",
+  "discount": -475
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922c"
+  },
+  "title": "Friskers",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/2/25/86c60ea7-a025-485a-ac86-8c7f2c2f4f371551094776801-1.jpg",
+  "desc": "Solid Round Neck Pure Cotton",
+  "price": 581,
+  "maxprice": 969,
+  "rating": "3.3⭐",
+  "vote": "21.2k",
+  "discount": 40
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922d"
+  },
+  "title": "Friskers",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/24/8e1849d1-9c47-41d7-ab7b-9cd3072139ec1616587934239-1.jpg",
+  "desc": "Solid Round Neck T-shirt",
+  "price": 467,
+  "maxprice": 1220,
+  "rating": "3.0⭐",
+  "vote": "19.0k",
+  "discount": -283
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922e"
+  },
+  "title": "Friskers",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/2/25/a7556403-8330-4e1b-b6e0-51644785bc861551095464051-1.jpg",
+  "desc": "Solid Round Neck Pure Cotton",
+  "price": 581,
+  "maxprice": 969,
+  "rating": "3.5⭐",
+  "vote": "4.5k",
+  "discount": 40
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d922f"
+  },
+  "title": "Friskers",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11777938/2020/4/1/7b5bca2a-0120-4e7b-95be-a0fde141f7881585738413660FriskersMenBlackSolidHoodT-shirt1.jpg",
+  "desc": "Solid Hood T-shirt",
+  "price": 659,
+  "maxprice": 1190,
+  "rating": "3.6⭐",
+  "vote": "48.9k",
+  "discount": -454
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9230"
+  },
+  "title": "Friskers",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/24/be3ef94c-1d56-4382-bbf5-e59fe3f1627b1608819669207-1.jpg",
+  "desc": "Solid V-Nek T-shirt",
+  "price": 524,
+  "maxprice": 1490,
+  "rating": "3.6⭐",
+  "vote": "9.1k",
+  "discount": -252
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9231"
+  },
+  "title": "Duke",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16467474/2021/12/11/94e728ae-8037-41d7-8ec6-f7ac31f0c4f71639243393968DukeMenPinkPrintedPoloCollarAppliqueT-shirt1.jpg",
+  "desc": "Men Printed Polo Collar",
+  "price": 746,
+  "maxprice": 995,
+  "rating": "3.1⭐",
+  "vote": "29.7k",
+  "discount": 25
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9232"
+  },
+  "title": "Duke",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16467428/2021/12/11/ede936ce-347a-481b-8910-723b664e60811639243513757DukeMenWhitePoloCollarAppliqueT-shirt1.jpg",
+  "desc": "Men Polo Collar Applique",
+  "price": 746,
+  "maxprice": 995,
+  "rating": "3.8⭐",
+  "vote": "19.8k",
+  "discount": 25
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9233"
+  },
+  "title": "Duke",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16467478/2021/12/11/ea375010-c864-4728-bbbb-77489ead7c0a1639243702930DukeMenGreenTypographyMandarinCollarAppliqueT-shirt1.jpg",
+  "desc": "Men Typography Mandarin",
+  "price": 746,
+  "maxprice": 995,
+  "rating": "3.8⭐",
+  "vote": "34.2k",
+  "discount": 25
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9234"
+  },
+  "title": "Duke",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16467432/2021/12/11/dfdb3e63-4596-41ed-b026-5b198fc6ad361639242082521DukeMenWhiteSportsPoloCollarPocketsT-shirt1.jpg",
+  "desc": "Men Sports Polo Collar",
+  "price": 783,
+  "maxprice": 1040,
+  "rating": "3.6⭐",
+  "vote": "21.4k",
+  "discount": -653
+},{
+  "_id": {
+    "$oid": "6214db990695cef5ef6d9235"
+  },
+  "title": "Duke",
+  "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16467438/2021/12/11/02abf296-4844-4454-af32-88a9261f71751639246417173DukeMenGreenStripedPoloCollarPocketsT-shirt1.jpg",
+  "desc": "Men Striped Polo Pocket",
+  "price": 746,
+  "maxprice": 995,
+  "rating": "3.2⭐",
+  "vote": "9.1k",
+  "discount": 25
+}]
